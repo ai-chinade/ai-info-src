@@ -1,2 +1,2 @@
-# ai_info_src
+# ai-info-src
 优质AI信息源
