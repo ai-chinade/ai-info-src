@@ -2,7 +2,7 @@
 
 ## 1. 技术动态
 ### 1.1 中文
-1 爱可可-爱生活：http://weibo.com/fly51fly
+1. 爱可可-爱生活：http://weibo.com/fly51fly
 2. 好东西传送门：http://weibo.com/haoawesome
 3. 机器之心：http://www.jiqizhixin.com
 4. valse机器学习日报：http://valser.org/forum-101-1.html
@@ -17,20 +17,21 @@
 4. Kaggle blog: http://blog.kaggle.com/
 
 
-## 2. 产业动态：
+## 2. 产业动态
 ### 2.1 中文
 1. 新智元：https://www.leiphone.com/author/shalagedewen
 2. Xtecher: http://www.xtecher.com/
 3. 36kr：http://36kr.com/
 4. 量子位：http://tech.sina.com.cn/zl/u/6105753431
 ### 2.2 英文 
+-
 
-## 3. 新闻站点：
+## 3. 新闻站点
 ### 3.1 中文
 1. 雷锋网：https://www.leiphone.com/
 2. 网易智能：http://tech.163.com/smart/
 3. 腾讯科技：http://tech.qq.com/web/artificial.htm
 
 ### 3.2 英文
-1. Tech review: https://www.technologyreview.com/ 
+1. Tech review: https://www.technologyreview.com/
 2. Techcrunch: https://techcrunch.com/
